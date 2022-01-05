@@ -1,9 +1,9 @@
 
-public class Exam05º°Âï±â1 {
+public class Exam05ÂºÂ°Ã‚Ã¯Â±Ã¢1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//°øÆ÷ÀÇ º° Âï±â1
+		//ê³µí¬ì˜ ë³„ ì°ê¸°1
 		
 		
 		for (int a = 5; a >= 1; a--) {
